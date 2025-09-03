@@ -1,6 +1,4 @@
-Harika bir istek! Profesyonel bir Swift geliştirici olmak için izlenecek yol sadece dil bilgisi değil, aynı zamanda yazılım mühendisliği prensipleri, ekosistem araçları ve problem çözme becerileri gerektirir. İşte size A'dan Z'ye, temelden ileri seviyeye kadar detaylı bir Swift geliştirici yol haritası:
 
----
 
 ### **Swift Geliştirici Yol Haritası: Profesyonel Seviye**
 
